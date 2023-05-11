@@ -9,8 +9,8 @@ DEBUG = True  # set to True to enable useful console output
 #ROOT_URLS = ["https:///digg.com/"]
 
 ROOT_URLS = [
-	"https://www.ignoredace.me/2023/04/Why-there-is-no-wind-on-Equator.html",
-	"https://www.ignoredace.me/2023/04/open-in-whatsapp.html",
+	"https://youtube.com/shorts/yHB4vy9qrXI?feature=share",
+	"https://youtube.com/shorts/uVKEEdVnCcs?feature=share",
 	"https://www.ignoredace.me/2023/05/how-different-types-of-data-get-stored.html",
 	"https://www.ignoredace.me/2023/04/what-are-different-stages-of-sleep.html",
 	"https://www.ignoredace.me/2023/04/what-are-web-cookies-and-why-do.html",
