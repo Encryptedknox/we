@@ -1,6 +1,6 @@
 MAX_DEPTH = 10  # maximum click depth
 MIN_DEPTH = 3 # minimum click depth
-MAX_WAIT = 10  # maximum amount of time to wait between HTTP requests
+MAX_WAIT = 15  # maximum amount of time to wait between HTTP requests
 MIN_WAIT = 5  # minimum amount of time allowed between HTTP requests
 DEBUG = True  # set to True to enable useful console output
 
