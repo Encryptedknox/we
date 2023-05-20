@@ -9,13 +9,13 @@ DEBUG = True  # set to True to enable useful console output
 #ROOT_URLS = ["https:///digg.com/"]
 
 ROOT_URLS = [
-	"https://www.ignoredace.me/2023/05/what-is-bard.html",
-	"https://www.ignoredace.me/2023/04/what-is-fast-charging-how-does-it-work.html",
-	"https://www.ignoredace.me/2023/04/what-is-action-camera-and-what-is-it.html",
-	"https://www.ignoredace.me/2023/04/googles-ai-chatbot-bard-to-assist.html",
-	"https://www.ignoredace.me/2023/04/what-are-web-cookies-and-why-do.html",
-	"https://www.ignoredace.me/2023/05/does-human-body-produce-electricity.html",
-	"https://www.ignoredace.me/2023/04/java-vs-python-which-one-is-good.html"
+	"https://youtube.com/shorts/YJPjKKfcFLI?feature=share",
+	"https://youtube.com/shorts/YJPjKKfcFLI?feature=share",
+	"https://youtube.com/shorts/YJPjKKfcFLI?feature=share",
+	"https://youtube.com/shorts/YJPjKKfcFLI?feature=share",
+	"https://youtube.com/shorts/YJPjKKfcFLI?feature=share",
+	"https://youtube.com/shorts/YJPjKKfcFLI?feature=share",
+	"https://youtube.com/shorts/YJPjKKfcFLI?feature=share"
 	]
 
 
